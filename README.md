@@ -1,1 +1,1 @@
-"# my-word-counter" 
+"# my-word_counter" 
